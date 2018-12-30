@@ -13,13 +13,13 @@ Name: iClyde
 Author: Coopydood
 Depiction: oof
 
-Package: com.coopydood.weatherlock
+Package: be.submanifold.weatherlock
 Version: 0.0.1-109+debug
 Section: Tweaks
 Maintainer: rainwolf
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//debs/com.coopydood.weatherlock.deb
+Filename: .//debs/be.submanifold.weatherlock.deb
 Size: 32110
 Installed-Size: 104
 MD5sum: a0427166b04d1d15a891d6799c59031a
