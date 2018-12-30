@@ -1,0 +1,15 @@
+Package: com.coopydood.clyde
+Version: 0.1-debug
+Section: Tweaks
+Maintainer: Coopydood
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/com.mdausch.exampletweak_0.0.2-2+debug_iphoneos-arm.deb
+Size: 1702
+Installed-Size: 104
+MD5sum: 31301ab1bffd3af1d89979569cca8132
+Description: Clyde made this I swear
+Name: ExampleTweak
+Author: Coopydood
+Depiction: Woof?
+
