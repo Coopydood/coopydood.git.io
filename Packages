@@ -22,7 +22,7 @@ Architecture: iphoneos-arm
 Filename: .//debs/com.coopydood.weatherlock.deb
 Size: 32110
 Installed-Size: 104
-MD5sum: A0427166B04D1D15A891D6799C59031A
+MD5sum: a0427166b04d1d15a891d6799c59031a
 Description: Animated weather background. Coopydood’s favourite tweak. Compatible with iOS 11!
 Name: WeatherLock (iOS 11)
 Author: rainwolf
