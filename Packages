@@ -4,8 +4,8 @@ Section: Tweaks
 Maintainer: Coopydood
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//debs/com.coopydood.iclyde.deb
-Size: 1702
+Filename: .//debs/com.coopydood.iclyde_0.0.2-2+debug.deb
+Size: 4380
 Installed-Size: 104
 MD5sum: 57957924f7ea0506218ae79a77bba31e
 Description: Clyde made this lol
