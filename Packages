@@ -19,7 +19,7 @@ Section: Tweaks
 Maintainer: rainwolf
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//debs/be.submanifold.weatherlock11_0.0.1-109+debug.deb
+Filename: .//debs/be.submanifold.weatherlock11.deb
 Size: 32110
 Installed-Size: 104
 MD5sum: a0427166b04d1d15a891d6799c59031a
