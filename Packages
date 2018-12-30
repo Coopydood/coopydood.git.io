@@ -1,4 +1,4 @@
-Package: com.coopydood.iclyde_0.0.2-2+debug
+Package: com.coopydood.iclyde
 Version: 0.0.2-2+debug
 Section: Tweaks
 Maintainer: Coopydood
@@ -13,7 +13,7 @@ Name: iClyde
 Author: Coopydood
 Depiction: oof
 
-Package: be.submanifold.weatherlock11_0.0.1-109+debug
+Package: be.submanifold.weatherlock11
 Version: 0.0.1-109+debug
 Section: Tweaks
 Maintainer: rainwolf
