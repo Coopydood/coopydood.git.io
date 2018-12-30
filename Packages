@@ -13,7 +13,7 @@ Name: iClyde
 Author: Coopydood
 Depiction: oof
 
-Package: be.submanifold.weatherlock11
+Package: com.coopydood.weatherlock11
 Version: 0.0.1-109+debug
 Section: Tweaks
 Maintainer: rainwolf
